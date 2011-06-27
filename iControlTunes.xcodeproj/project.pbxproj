@@ -1,0 +1,379 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
+		27C3367913732B8A00C3BFA2 /* Credits.html in Resources */ = {isa = PBXBuildFile; fileRef = 27C3367813732B8A00C3BFA2 /* Credits.html */; };
+		27EBFE84136B5FB100185B22 /* itunesserver.png in Resources */ = {isa = PBXBuildFile; fileRef = 27EBFE83136B5FB100185B22 /* itunesserver.png */; };
+		27EBFE87136B60AF00185B22 /* bonjour.png in Resources */ = {isa = PBXBuildFile; fileRef = 27EBFE86136B60AF00185B22 /* bonjour.png */; };
+		27F0E8F4136ABAD000B415EB /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E8F3136ABAD000B415EB /* back.png */; };
+		27F0E8F6136ABAE500B415EB /* highVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E8F5136ABAE500B415EB /* highVolume.png */; };
+		27F0E8F8136ABAED00B415EB /* lowVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E8F7136ABAED00B415EB /* lowVolume.png */; };
+		27F0E8FF136ABB0500B415EB /* next-black.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E8F9136ABB0500B415EB /* next-black.png */; };
+		27F0E900136ABB0500B415EB /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E8FA136ABB0500B415EB /* next.png */; };
+		27F0E901136ABB0500B415EB /* pause-black.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E8FB136ABB0500B415EB /* pause-black.png */; };
+		27F0E902136ABB0500B415EB /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E8FC136ABB0500B415EB /* pause.png */; };
+		27F0E903136ABB0500B415EB /* play-black.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E8FD136ABB0500B415EB /* play-black.png */; };
+		27F0E904136ABB0500B415EB /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E8FE136ABB0500B415EB /* play.png */; };
+		27F0E908136ABB1600B415EB /* prev-black.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E905136ABB1600B415EB /* prev-black.png */; };
+		27F0E909136ABB1600B415EB /* prev.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E906136ABB1600B415EB /* prev.png */; };
+		27F0E90A136ABB1600B415EB /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E907136ABB1600B415EB /* settings.png */; };
+		27F0E919136ABED300B415EB /* iControlTunes.icns in Resources */ = {isa = PBXBuildFile; fileRef = 27F0E918136ABED300B415EB /* iControlTunes.icns */; };
+		27FB76F0136E8F3200F378FE /* refresh.png in Resources */ = {isa = PBXBuildFile; fileRef = 27FB76EF136E8F3200F378FE /* refresh.png */; };
+		27FB76F2136E8F3B00F378FE /* remove.png in Resources */ = {isa = PBXBuildFile; fileRef = 27FB76F1136E8F3B00F378FE /* remove.png */; };
+		27FB76F4136E8F4400F378FE /* process.png in Resources */ = {isa = PBXBuildFile; fileRef = 27FB76F3136E8F4400F378FE /* process.png */; };
+		27FF8172137038F80075D3BE /* user.png in Resources */ = {isa = PBXBuildFile; fileRef = 27FF8170137038F80075D3BE /* user.png */; };
+		27FF8173137038F80075D3BE /* users.png in Resources */ = {isa = PBXBuildFile; fileRef = 27FF8171137038F80075D3BE /* users.png */; };
+		3B92A9F90F6ED2CB0023785B /* iControlTunesAppDelegate.applescript in Sources */ = {isa = PBXBuildFile; fileRef = 3B92A9F80F6ED2CB0023785B /* iControlTunesAppDelegate.applescript */; };
+		3BC3FB040ED20C27004AC079 /* AppleScriptObjC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BC3FB030ED20C27004AC079 /* AppleScriptObjC.framework */; };
+		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		1DDD58150DA1D0A300B32029 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		27C3367813732B8A00C3BFA2 /* Credits.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Credits.html; sourceTree = "<group>"; };
+		27EBFE83136B5FB100185B22 /* itunesserver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = itunesserver.png; sourceTree = "<group>"; };
+		27EBFE86136B60AF00185B22 /* bonjour.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bonjour.png; sourceTree = "<group>"; };
+		27F0E8F3136ABAD000B415EB /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		27F0E8F5136ABAE500B415EB /* highVolume.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = highVolume.png; sourceTree = "<group>"; };
+		27F0E8F7136ABAED00B415EB /* lowVolume.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lowVolume.png; sourceTree = "<group>"; };
+		27F0E8F9136ABB0500B415EB /* next-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "next-black.png"; sourceTree = "<group>"; };
+		27F0E8FA136ABB0500B415EB /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		27F0E8FB136ABB0500B415EB /* pause-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pause-black.png"; sourceTree = "<group>"; };
+		27F0E8FC136ABB0500B415EB /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		27F0E8FD136ABB0500B415EB /* play-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play-black.png"; sourceTree = "<group>"; };
+		27F0E8FE136ABB0500B415EB /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		27F0E905136ABB1600B415EB /* prev-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "prev-black.png"; sourceTree = "<group>"; };
+		27F0E906136ABB1600B415EB /* prev.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prev.png; sourceTree = "<group>"; };
+		27F0E907136ABB1600B415EB /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings.png; sourceTree = "<group>"; };
+		27F0E918136ABED300B415EB /* iControlTunes.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = iControlTunes.icns; sourceTree = "<group>"; };
+		27FB76EF136E8F3200F378FE /* refresh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = refresh.png; sourceTree = "<group>"; };
+		27FB76F1136E8F3B00F378FE /* remove.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = remove.png; sourceTree = "<group>"; };
+		27FB76F3136E8F4400F378FE /* process.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = process.png; sourceTree = "<group>"; };
+		27FF8170137038F80075D3BE /* user.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = user.png; sourceTree = "<group>"; };
+		27FF8171137038F80075D3BE /* users.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = users.png; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		32CA4F630368D1EE00C91783 /* iControlTunes_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iControlTunes_Prefix.pch; sourceTree = "<group>"; };
+		3B92A9F80F6ED2CB0023785B /* iControlTunesAppDelegate.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = iControlTunesAppDelegate.applescript; sourceTree = "<group>"; };
+		3BC3FB030ED20C27004AC079 /* AppleScriptObjC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppleScriptObjC.framework; path = /System/Library/Frameworks/AppleScriptObjC.framework; sourceTree = "<absolute>"; };
+		8D1107310486CEB800E47090 /* iControlTunes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = iControlTunes.plist; sourceTree = "<group>"; };
+		8D1107320486CEB800E47090 /* iControlTunes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iControlTunes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+				3BC3FB040ED20C27004AC079 /* AppleScriptObjC.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				3B92A9F80F6ED2CB0023785B /* iControlTunesAppDelegate.applescript */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+				3BC3FB030ED20C27004AC079 /* AppleScriptObjC.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				13E42FB307B3F0F600E4EEF1 /* CoreData.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* iControlTunes.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* MacOS X iTunes Remote */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = "MacOS X iTunes Remote";
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				27FB76F3136E8F4400F378FE /* process.png */,
+				27FB76F1136E8F3B00F378FE /* remove.png */,
+				27FB76EF136E8F3200F378FE /* refresh.png */,
+				32CA4F630368D1EE00C91783 /* iControlTunes_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				27FF8170137038F80075D3BE /* user.png */,
+				27FF8171137038F80075D3BE /* users.png */,
+				27EBFE83136B5FB100185B22 /* itunesserver.png */,
+				27F0E8F3136ABAD000B415EB /* back.png */,
+				8D1107310486CEB800E47090 /* iControlTunes.plist */,
+				27F0E918136ABED300B415EB /* iControlTunes.icns */,
+				27F0E8F9136ABB0500B415EB /* next-black.png */,
+				27F0E8FA136ABB0500B415EB /* next.png */,
+				27F0E905136ABB1600B415EB /* prev-black.png */,
+				27F0E906136ABB1600B415EB /* prev.png */,
+				27F0E907136ABB1600B415EB /* settings.png */,
+				27F0E8FB136ABB0500B415EB /* pause-black.png */,
+				27F0E8FC136ABB0500B415EB /* pause.png */,
+				27F0E8FD136ABB0500B415EB /* play-black.png */,
+				27EBFE86136B60AF00185B22 /* bonjour.png */,
+				27F0E8FE136ABB0500B415EB /* play.png */,
+				27F0E8F5136ABAE500B415EB /* highVolume.png */,
+				27F0E8F7136ABAED00B415EB /* lowVolume.png */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+				1DDD58140DA1D0A300B32029 /* MainMenu.xib */,
+				27C3367813732B8A00C3BFA2 /* Credits.html */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* iControlTunes */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "iControlTunes" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iControlTunes;
+			productInstallPath = "$(HOME)/Applications";
+			productName = "MacOS X iTunes Remote";
+			productReference = 8D1107320486CEB800E47090 /* iControlTunes.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iControlTunes" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* MacOS X iTunes Remote */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* iControlTunes */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
+				27F0E8F4136ABAD000B415EB /* back.png in Resources */,
+				27F0E8F6136ABAE500B415EB /* highVolume.png in Resources */,
+				27F0E8F8136ABAED00B415EB /* lowVolume.png in Resources */,
+				27F0E8FF136ABB0500B415EB /* next-black.png in Resources */,
+				27F0E900136ABB0500B415EB /* next.png in Resources */,
+				27F0E901136ABB0500B415EB /* pause-black.png in Resources */,
+				27F0E902136ABB0500B415EB /* pause.png in Resources */,
+				27F0E903136ABB0500B415EB /* play-black.png in Resources */,
+				27F0E904136ABB0500B415EB /* play.png in Resources */,
+				27F0E908136ABB1600B415EB /* prev-black.png in Resources */,
+				27F0E909136ABB1600B415EB /* prev.png in Resources */,
+				27F0E90A136ABB1600B415EB /* settings.png in Resources */,
+				27F0E919136ABED300B415EB /* iControlTunes.icns in Resources */,
+				27EBFE84136B5FB100185B22 /* itunesserver.png in Resources */,
+				27EBFE87136B60AF00185B22 /* bonjour.png in Resources */,
+				27FB76F0136E8F3200F378FE /* refresh.png in Resources */,
+				27FB76F2136E8F3B00F378FE /* remove.png in Resources */,
+				27FB76F4136E8F4400F378FE /* process.png in Resources */,
+				27FF8172137038F80075D3BE /* user.png in Resources */,
+				27FF8173137038F80075D3BE /* users.png in Resources */,
+				27C3367913732B8A00C3BFA2 /* Credits.html in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072D0486CEB800E47090 /* main.m in Sources */,
+				3B92A9F90F6ED2CB0023785B /* iControlTunesAppDelegate.applescript in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		1DDD58140DA1D0A300B32029 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1DDD58150DA1D0A300B32029 /* English */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_ENABLE_OBJC_GC = required;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iControlTunes_Prefix.pch;
+				INFOPLIST_FILE = iControlTunes.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = iControlTunes;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_GC = required;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iControlTunes_Prefix.pch;
+				INFOPLIST_FILE = iControlTunes.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = iControlTunes;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "iControlTunes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iControlTunes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

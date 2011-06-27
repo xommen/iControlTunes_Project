@@ -1,0 +1,360 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {955, 355}}";
+			sepNavSelRange = "{44, 0}";
+			sepNavVisRange = "{0, 44}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	27123EFF1385AAFE0005A24A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B92A9F80F6ED2CB0023785B /* iControlTunesAppDelegate.applescript */;
+		name = "iControlTunesAppDelegate.applescript: 594";
+		rLen = 0;
+		rLoc = 27804;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	27123F001385AAFE0005A24A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B92A9F80F6ED2CB0023785B /* iControlTunesAppDelegate.applescript */;
+		name = "iControlTunesAppDelegate.applescript: 594";
+		rLen = 0;
+		rLoc = 27804;
+		rType = 0;
+		vrLen = 971;
+		vrLoc = 286;
+	};
+	271BDB87137147C6000CCE1A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 27F0E8F7136ABAED00B415EB /* lowVolume.png */;
+	};
+	271BDB88137147C6000CCE1A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 27F0E918136ABED300B415EB /* iControlTunes.icns */;
+	};
+	271BDB89137147C6000CCE1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 2";
+		rLen = 0;
+		rLoc = 44;
+		rType = 0;
+		vrLen = 44;
+		vrLoc = 0;
+	};
+	2769F0E7136AEB870080CB25 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 27F0E8FE136ABB0500B415EB /* play.png */;
+	};
+	2769F0EA136AEB870080CB25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 356;
+		vrLoc = 0;
+	};
+	2769F0EB136AEB870080CB25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* iControlTunes_Prefix.pch */;
+		name = "MacOS_X_iTunes_Remote_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 157;
+		vrLoc = 0;
+	};
+	27729C1713731E9800C1A3B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* iControlTunes_Prefix.pch */;
+		name = "iControlTunes_Prefix.pch: 2";
+		rLen = 0;
+		rLoc = 92;
+		rType = 0;
+		vrLen = 157;
+		vrLoc = 0;
+	};
+	27729C1813731E9800C1A3B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 18";
+		rLen = 0;
+		rLoc = 356;
+		rType = 0;
+		vrLen = 356;
+		vrLoc = 0;
+	};
+	2789BABD136C9B0C00E5C90E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 2";
+		rLen = 0;
+		rLoc = 44;
+		rType = 0;
+		vrLen = 44;
+		vrLoc = 0;
+	};
+	278F4FB2136A04AA007C07C1 /* iControlTunes */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iControlTunes;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	278F4FCD136A04BA007C07C1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	278F4FCE136A04BA007C07C1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	27AC2BF01385A6EE00635CBF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B92A9F80F6ED2CB0023785B /* iControlTunesAppDelegate.applescript */;
+		name = "iControlTunesAppDelegate.applescript: 594";
+		rLen = 0;
+		rLoc = 27804;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	27AC2BF11385A6EE00635CBF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B92A9F80F6ED2CB0023785B /* iControlTunesAppDelegate.applescript */;
+		name = "iControlTunesAppDelegate.applescript: 594";
+		rLen = 0;
+		rLoc = 27804;
+		rType = 0;
+		vrLen = 1029;
+		vrLoc = 286;
+	};
+	27C3365D1373297100C3BFA2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iControlTunes.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleShortVersionString,
+		);
+		name = /Users/wim/Documents/Developments/iControlTunes_Project/iControlTunes.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	27C3367813732B8A00C3BFA2 /* Credits.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {955, 193}}";
+			sepNavSelRange = "{506, 0}";
+			sepNavVisRange = "{0, 506}";
+		};
+	};
+	27F0E91E136ABF4B00B415EB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 27F0E8F5136ABAE500B415EB /* highVolume.png */;
+	};
+	27F0E91F136ABF4B00B415EB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 27F0E8F7136ABAED00B415EB /* lowVolume.png */;
+	};
+	27F0E921136ABF4B00B415EB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 27F0E8F3136ABAD000B415EB /* back.png */;
+	};
+	27F2B609136C2BF700BC0189 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 27EBFE86136B60AF00185B22 /* bonjour.png */;
+	};
+	27F2B60A136C2BF700BC0189 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 27F0E918136ABED300B415EB /* iControlTunes.icns */;
+	};
+	27F4422F1373FD6800DE2FD2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27C3367813732B8A00C3BFA2 /* Credits.html */;
+		name = "Credits.html: 6";
+		rLen = 0;
+		rLoc = 506;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 0;
+	};
+	27FB76F6136E910D00F378FE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 27FB76F3136E8F4400F378FE /* process.png */;
+	};
+	27FB7701136E932200F378FE /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iControlTunes.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/wim/Documents/Developments/MacOS X iTunes Remote/MacOS_X_iTunes_Remote-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 278F4FB2136A04AA007C07C1 /* iControlTunes */;
+		activeTarget = 8D1107260486CEB800E47090 /* iControlTunes */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* iControlTunes */,
+		);
+		codeSenseManager = 278F4FCE136A04BA007C07C1 /* Code sense */;
+		executables = (
+			278F4FB2136A04AA007C07C1 /* iControlTunes */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					665,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					777,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					737,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 327526490;
+			PBXWorkspaceStateSaveDate = 327526490;
+		};
+		perUserProjectItems = {
+			27123EFF1385AAFE0005A24A /* PBXTextBookmark */ = 27123EFF1385AAFE0005A24A /* PBXTextBookmark */;
+			27123F001385AAFE0005A24A /* PBXTextBookmark */ = 27123F001385AAFE0005A24A /* PBXTextBookmark */;
+			271BDB87137147C6000CCE1A /* PBXBookmark */ = 271BDB87137147C6000CCE1A /* PBXBookmark */;
+			271BDB88137147C6000CCE1A /* PBXBookmark */ = 271BDB88137147C6000CCE1A /* PBXBookmark */;
+			271BDB89137147C6000CCE1A /* PBXTextBookmark */ = 271BDB89137147C6000CCE1A /* PBXTextBookmark */;
+			2769F0E7136AEB870080CB25 /* PBXBookmark */ = 2769F0E7136AEB870080CB25 /* PBXBookmark */;
+			2769F0EA136AEB870080CB25 /* PBXTextBookmark */ = 2769F0EA136AEB870080CB25 /* PBXTextBookmark */;
+			2769F0EB136AEB870080CB25 /* PBXTextBookmark */ = 2769F0EB136AEB870080CB25 /* PBXTextBookmark */;
+			27729C1713731E9800C1A3B6 /* PBXTextBookmark */ = 27729C1713731E9800C1A3B6 /* PBXTextBookmark */;
+			27729C1813731E9800C1A3B6 /* PBXTextBookmark */ = 27729C1813731E9800C1A3B6 /* PBXTextBookmark */;
+			2789BABD136C9B0C00E5C90E /* PBXTextBookmark */ = 2789BABD136C9B0C00E5C90E /* PBXTextBookmark */;
+			27AC2BF01385A6EE00635CBF /* PBXTextBookmark */ = 27AC2BF01385A6EE00635CBF /* PBXTextBookmark */;
+			27AC2BF11385A6EE00635CBF /* PBXTextBookmark */ = 27AC2BF11385A6EE00635CBF /* PBXTextBookmark */;
+			27C3365D1373297100C3BFA2 /* PlistBookmark */ = 27C3365D1373297100C3BFA2 /* PlistBookmark */;
+			27F0E91E136ABF4B00B415EB /* PBXBookmark */ = 27F0E91E136ABF4B00B415EB /* PBXBookmark */;
+			27F0E91F136ABF4B00B415EB /* PBXBookmark */ = 27F0E91F136ABF4B00B415EB /* PBXBookmark */;
+			27F0E921136ABF4B00B415EB /* PBXBookmark */ = 27F0E921136ABF4B00B415EB /* PBXBookmark */;
+			27F2B609136C2BF700BC0189 /* PBXBookmark */ = 27F2B609136C2BF700BC0189 /* PBXBookmark */;
+			27F2B60A136C2BF700BC0189 /* PBXBookmark */ = 27F2B60A136C2BF700BC0189 /* PBXBookmark */;
+			27F4422F1373FD6800DE2FD2 /* PBXTextBookmark */ = 27F4422F1373FD6800DE2FD2 /* PBXTextBookmark */;
+			27FB76F6136E910D00F378FE /* PBXBookmark */ = 27FB76F6136E910D00F378FE /* PBXBookmark */;
+			27FB7701136E932200F378FE /* PlistBookmark */ = 27FB7701136E932200F378FE /* PlistBookmark */;
+		};
+		sourceControlManager = 278F4FCD136A04BA007C07C1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {955, 265}}";
+			sepNavSelRange = "{356, 0}";
+			sepNavVisRange = "{0, 356}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* iControlTunes_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {955, 265}}";
+			sepNavSelRange = "{92, 0}";
+			sepNavVisRange = "{0, 157}";
+		};
+	};
+	3B92A9F80F6ED2CB0023785B /* iControlTunesAppDelegate.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {955, 7726}}";
+			sepNavSelRange = "{27804, 0}";
+			sepNavVisRange = "{0, 0}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* iControlTunes */ = {
+		activeExec = 0;
+		executables = (
+			278F4FB2136A04AA007C07C1 /* iControlTunes */,
+		);
+	};
+}
